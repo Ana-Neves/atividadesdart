@@ -1,4 +1,4 @@
-🚀 Atividades em Dart do Curso Técnico 🎯
+# 🚀 Atividades em Dart do Curso Técnico 🎯
 
 Bem-vindo ao repositório das atividades em Dart do curso técnico! Aqui você encontrará uma coleção de projetos e exercícios que exploram as maravilhas da linguagem Dart. Prepare-se para mergulhar em um mundo de código colorido e funcional! 💻🎨
 
